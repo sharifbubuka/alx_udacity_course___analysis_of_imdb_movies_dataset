@@ -1,2 +1,1 @@
-# alx_with_udacity__data_analysis_course
-alx_with_udacity__data_analysis_course
+# alx_udacity_course___analysisof_imdb_movies_dataset
