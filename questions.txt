@@ -1,0 +1,50 @@
+DATA WRANGLING
+#Read the data
+Get data types and dimensions
+Get data columns
+Get first 5 rows
+Get last 5 rows
+
+Show descriptive statistics
+Show informative statistics 
+
+
+CLEANING
+Remove nulls / replace with appropriate value
+Drop unecessary columns
+Change data types to appropriate data types
+
+
+
+INVESTIGATE
+What is the most popular movie in the data set?
+#What is the relationship between a mmovie's budget and it's popularity?
+Which movies had the highest & lowest production budget?
+Which movies had the highest and lowest post-release revenue?
+#What is the relationship between a movie's budget and it's revenue?
+How many movies were directed per director?
+What is the relationship between a director and production company partnership with movie budget?
+What is the relationship between a director and production company partnership with movie revenue?
+What is the relationship between a director and production company partnership with movie popularity?
+What is the relationship between directors and movie popularity?
+What is the relationship between directors and movie budgets?
+What is the relationship between directors and movie revenue?
+Which genres are the most expensive & least expensive to produce?
+What are the 2 most popular & least popular genres?
+How many production companies are there in the data set?
+Which production company spends on movie production?
+Which the oldest & latest movie in the data set?
+How many movies were released before 2000?
+How many movies were released per year?
+How many movies were released per genre per year?
+How many (and which) movies run for more than 2 hours?
+What is the correlation between movie length and popularity?
+What is the relationship between movie length and budget?
+List all movies in a particular genre X.
+Which movies are not appropriate for children?
+What is the relationship between average vote and movie popularity?
+How did movies released in the first quarter of the year perform revenue-wise compared to those released in the last quarter of the year?
+What is the best month for releasing a movie?
+How does the number of actors influence the movie's budget?
+Who are the most popular actors?
+Did the vote count increase or reduce over the years?
